@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/home1"
+        android:title="home"
+        />
+    <item android:id="@+id/world"
+        android:title="world"
+        />
+    <item android:id="@+id/national"
+        android:title="national"
+        />
+    <item android:id="@+id/politics"
+        android:title="politics"
+        />
+    <item android:id="@+id/nyregion"
+        android:title="nyregion"
+        />
+    <item android:id="@+id/business"
+    android:title="business"
+    />
+    <item android:id="@+id/opinion"
+        android:title="opinion"
+        />
+    <item android:id="@+id/technology"
+        android:title="technology"
+        />
+    <item android:id="@+id/science"
+        android:title="science"
+        />
+
+</menu>
